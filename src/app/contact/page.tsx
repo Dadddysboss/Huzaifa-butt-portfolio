@@ -146,7 +146,7 @@ export default function ContactPage() {
             <p className="text-xs font-mono text-slate-400 font-bold mt-0.5">// LPDoS-PROTECTED — MAX 128 CHARS PER FIELD</p>
           </div>
 
-          <form action="https://api.web3forms.com/submit" method="POST" className="space-y-4 max-w-2xl">
+          <form action="#" method="POST" className="space-y-4 max-w-2xl">
             <input type="hidden" name="access_key" value={process.env.NEXT_PUBLIC_WEB3FORMS_KEY || ""} />
             <input type="hidden" name="redirect" value="http://localhost:3000/contact?success=true" />
 
