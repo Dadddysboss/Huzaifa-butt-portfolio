@@ -27,6 +27,15 @@ export default function VelocitySeoPage() {
         }
       },
       {
+        "@type": "TechArticle",
+        "headline": "The Architectural Blueprint of Enterprise Technical SEO",
+        "inLanguage": "en-US",
+        "author": {
+          "@type": "Person",
+          "name": "M. Huzaifa Butt"
+        }
+      },
+      {
         "@type": "WebPage",
         "name": "Velocity SEO — Visibility HUD",
         "description": "SEO tool matrix with link-building audit properties and indexing node mapping for MindRind and TekVent asset networks.",
